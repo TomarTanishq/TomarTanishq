@@ -43,9 +43,9 @@ AI-powered healthcare web application for appointment booking and AI assistance
 ML model to check whether tumor is benign or malignant. 
 **Tech:** Python, scikit-learn
 
-### 🔹 [Mini Compiler](https://github.com/your-repo)
-Lexical analyzer, parser, and AST visualizer using Python  
-**Tech:** Python, Streamlit, streamlit_agraph
+### 🔹 [Lightweight System Monitor](https://github.com/TomarTanishq/System-Monitor)
+System memory, core usage, top processes running using Python
+**Tech:** Python, Streamlit, psutil
 
 ---
 
